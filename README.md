@@ -1,4 +1,4 @@
-# MXCX - Base course
+# Materials Technology: Materials Testing and Analysis
 
 Welcome to the ACTEA base course layout. These course is created to bootstrap all the courses in the ACTEA project. 
 
